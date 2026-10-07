@@ -1,0 +1,16 @@
+# RDP Shortcut Forge
+config.json
+db.json
+*.lnk
+*.rdp
+
+# YouTube Batch Downloader
+.youtube-downloader-tools/
+
+# System Monitor
+__pycache__/
+*.pyc
+*.log
+
+# General
+*.log

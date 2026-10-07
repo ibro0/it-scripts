@@ -1,0 +1,9 @@
+{
+  "DefaultDomain": "",
+  "DefaultUsername": "",
+  "ShortcutFolder": "Desktop",
+  "DefaultDisplayMode": "FullScreen",
+  "MstscPath": "C:\\Windows\\System32\\mstsc.exe",
+  "WindowedWidth": 1280,
+  "WindowedHeight": 720
+}
